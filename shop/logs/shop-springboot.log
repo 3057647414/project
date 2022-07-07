@@ -1,0 +1,92 @@
+2022-07-04 14:07:37.649 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 5984 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 14:07:37.665 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 14:07:39.336 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 14:07:39.352 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:07:39.352 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 14:07:39.352 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 14:07:39.540 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 14:07:39.540 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 1813 ms
+2022-07-04 14:07:40.305 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:07:40.321 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 14:07:40.336 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 3.231 seconds (JVM running for 4.338)
+2022-07-04 14:08:19.213 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 6264 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 14:08:19.213 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 14:08:20.269 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 14:08:20.285 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:08:20.285 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 14:08:20.285 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 14:08:20.363 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 14:08:20.363 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 1103 ms
+2022-07-04 14:08:20.919 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:08:20.934 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 14:08:20.934 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 2.439 seconds (JVM running for 3.251)
+2022-07-04 14:09:30.091 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 9008 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 14:09:30.091 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 14:09:31.041 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 14:09:31.056 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:09:31.056 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 14:09:31.056 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 14:09:31.134 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 14:09:31.134 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 996 ms
+2022-07-04 14:09:31.665 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:09:31.681 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 14:09:31.697 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 2.096 seconds (JVM running for 2.783)
+2022-07-04 14:31:47.750 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 9404 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 14:31:47.766 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 14:31:49.044 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 14:31:49.059 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:31:49.059 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 14:31:49.059 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 14:31:49.137 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 14:31:49.137 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 1308 ms
+2022-07-04 14:31:49.756 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 14:31:49.772 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 14:31:49.772 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 2.603 seconds (JVM running for 3.367)
+2022-07-04 15:05:41.794 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 3120 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 15:05:41.800 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 15:05:43.203 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 15:05:43.213 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 15:05:43.214 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 15:05:43.214 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 15:05:43.305 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 15:05:43.306 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 1431 ms
+2022-07-04 15:05:43.898 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 15:05:43.914 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 15:05:43.924 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 2.98 seconds (JVM running for 3.733)
+2022-07-04 15:05:58.278 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-04 15:05:58.278 [ http-nio-8080-exec-1 ] - [ INFO  ] [ org.springframework.web.servlet.DispatcherServlet : 525 ] - Initializing Servlet 'dispatcherServlet'
+2022-07-04 15:05:58.278 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 520 ] - Detected StandardServletMultipartResolver
+2022-07-04 15:05:58.278 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 544 ] - Detected AcceptHeaderLocaleResolver
+2022-07-04 15:05:58.278 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 569 ] - Detected FixedThemeResolver
+2022-07-04 15:05:58.279 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 719 ] - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@63a7d33a
+2022-07-04 15:05:58.279 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 783 ] - Detected org.springframework.web.servlet.support.SessionFlashMapManager@8ad8b2
+2022-07-04 15:05:58.279 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 542 ] - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2022-07-04 15:05:58.280 [ http-nio-8080-exec-1 ] - [ INFO  ] [ org.springframework.web.servlet.DispatcherServlet : 547 ] - Completed initialization in 2 ms
+2022-07-04 15:05:58.297 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 119 ] - GET "/a", parameters={}
+2022-07-04 15:05:58.341 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 1131 ] - Completed 200 OK
+2022-07-04 15:05:58.380 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 119 ] - GET "/favicon.ico", parameters={}
+2022-07-04 15:05:58.387 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 1131 ] - Completed 404 NOT_FOUND
+2022-07-04 15:05:58.395 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 119 ] - "ERROR" dispatch for GET "/error", parameters={}
+2022-07-04 15:05:58.456 [ http-nio-8080-exec-2 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 1127 ] - Exiting from "ERROR" dispatch, status 404
+2022-07-04 15:07:45.035 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 55 ] - Starting ShopApplication using Java 1.8.0_322 on moc with PID 12060 (C:\Users\moc\Desktop\shop\target\classes started by moc in C:\Users\moc\Desktop\shop)
+2022-07-04 15:07:45.038 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 634 ] - No active profile set, falling back to 1 default profile: "default"
+2022-07-04 15:07:46.304 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 108 ] - Tomcat initialized with port(s): 8080 (http)
+2022-07-04 15:07:46.312 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-04 15:07:46.313 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2022-07-04 15:07:46.313 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-04 15:07:46.398 [ main ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2022-07-04 15:07:46.398 [ main ] - [ INFO  ] [ o.s.b.w.s.c.ServletWebServerApplicationContext : 292 ] - Root WebApplicationContext: initialization completed in 1311 ms
+2022-07-04 15:07:47.032 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-04 15:07:47.049 [ main ] - [ INFO  ] [ o.s.boot.web.embedded.tomcat.TomcatWebServer : 220 ] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-04 15:07:47.059 [ main ] - [ INFO  ] [ com.hm.moc.shop.ShopApplication : 61 ] - Started ShopApplication in 2.609 seconds (JVM running for 3.375)
+2022-07-04 15:07:56.354 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-04 15:07:56.355 [ http-nio-8080-exec-1 ] - [ INFO  ] [ org.springframework.web.servlet.DispatcherServlet : 525 ] - Initializing Servlet 'dispatcherServlet'
+2022-07-04 15:07:56.356 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 520 ] - Detected StandardServletMultipartResolver
+2022-07-04 15:07:56.356 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 544 ] - Detected AcceptHeaderLocaleResolver
+2022-07-04 15:07:56.357 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 569 ] - Detected FixedThemeResolver
+2022-07-04 15:07:56.359 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 719 ] - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@158a8cea
+2022-07-04 15:07:56.360 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 783 ] - Detected org.springframework.web.servlet.support.SessionFlashMapManager@421476ea
+2022-07-04 15:07:56.360 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 542 ] - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2022-07-04 15:07:56.360 [ http-nio-8080-exec-1 ] - [ INFO  ] [ org.springframework.web.servlet.DispatcherServlet : 547 ] - Completed initialization in 4 ms
+2022-07-04 15:07:56.378 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 119 ] - GET "/a", parameters={}
+2022-07-04 15:07:56.440 [ http-nio-8080-exec-1 ] - [ DEBUG ] [ org.springframework.web.servlet.DispatcherServlet : 1131 ] - Completed 200 OK
